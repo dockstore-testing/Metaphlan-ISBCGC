@@ -15,7 +15,7 @@ baseCommand: [tar, xjf]
 stdout: $(inputs.unzippedFileName)
 hints:
   - class: DockerRequirement
-    dockerPull: stevetsa/metaphlan:2  
+    dockerPull: stevetsa/metaphlan:3  
 inputs:
   fastq:
     type: File
