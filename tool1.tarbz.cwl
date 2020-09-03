@@ -4,7 +4,7 @@ doc: |
   # Metaphlan-ISBCGC
 
   # Overview
-  This is an example of how to add a description to a tool. This uses markdown and can show things like images and links. 
+  This is another example of how to add a description to a tool. This uses markdown and can show things like images and links. 
 
 dct:creator:
     foaf:name: "Hsinyi Tsang"
